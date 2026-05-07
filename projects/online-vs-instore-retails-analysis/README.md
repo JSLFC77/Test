@@ -45,13 +45,17 @@ Channel‑level Transaction Value
 
 Initial analysis compared average and median transaction value across purchase channels. Mean transaction value is almost identical for online and in‑store transactions (£130 online vs £129 in‑store), and median transaction value is identical (£109 for both). This indicates that typical basket size does not differ meaningfully by channel.
 
+![Transaction Value by Channel](../../images/image001.png)
+
 Total transaction spend is slightly higher online (£749k) than in‑store (£724k), reflecting a marginally higher number of online transactions. Given similar basket values, this difference appears to be volume‑led rather than value‑led.
 
-![Transaction Value by Channel](../../images/image001.png)
+
 
 Transaction Value Mix by Channel
 
 To explore distributional differences beneath similar averages, transactions were analysed by value band (Low, Mid, High). While overall value mix is broadly similar, online shows a modest shift away from low‑value baskets towards mid‑value transactions.
+
+![Another Chart](../../images/image002.png)
 
 From a commercial perspective, this supports strategies focused on nudging low‑value baskets into mid‑value baskets online, such as threshold incentives and bundling, rather than broad discounting.
 
@@ -63,7 +67,7 @@ Category‑level analysis shows that channel differences are category‑driven r
 
 A channel delta view highlights categories where online performs strongly and where it underperforms. These findings indicate that efforts to grow online basket value should be category‑specific, focusing on strengthening already strong categories and addressing friction where in‑store retains an advantage.
 
- 
+![Another Chart](../../images/image003.png)
 
 Discount Impact on Transaction Value
 
@@ -71,7 +75,7 @@ The impact of discounting was assessed by comparing average transaction value fo
 
 Within‑channel analysis shows that discounting is associated with a modest increase in in‑store spend, while online average spend slightly decreases under discounting. This suggests that discounting may be a more effective lever in‑store than online, where promotions may capture transactions that would have occurred regardless.
 
- 
+![Another Chart](../../images/image004.png)
 
 Ethical Considerations and Limitations
 
