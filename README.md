@@ -1,10 +1,9 @@
 # My Portfolio
 
-[Linkedin](https://linkedin.com)
-
-## About Me
-
 ## Projects
 
+- [Online vs In-Store Retail Analysis](./projects/online-vs-instore-retails-analysis/)
 
-## Work Experience
+Retail analytics project comparing transaction behaviour across online and in-store channels using descriptive analysis and visualisations.
+
+
