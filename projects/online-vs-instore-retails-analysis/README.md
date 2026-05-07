@@ -47,7 +47,7 @@ Initial analysis compared average and median transaction value across purchase c
 
 Total transaction spend is slightly higher online (£749k) than in‑store (£724k), reflecting a marginally higher number of online transactions. Given similar basket values, this difference appears to be volume‑led rather than value‑led.
 
- 
+ ../../images/image001.png
 
 Transaction Value Mix by Channel
 
